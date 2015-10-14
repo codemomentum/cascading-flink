@@ -69,6 +69,12 @@ limitations under the License.
 
 	<dependencies>
 
+		<dependency>
+			<groupId>com.twitter</groupId>
+			<artifactId>carbonite</artifactId>
+			<version>1.4.1-SNAPSHOT</version>
+		</dependency>
+
 		<!-- FLINK -->
 
 		<dependency>
